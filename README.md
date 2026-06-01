@@ -136,7 +136,5 @@ This project helped me improve my skills in:
 <img width="1226" height="633" alt="Vehicle Analysis" src="https://github.com/user-attachments/assets/8863b6f4-4abb-47a1-afc5-d89f51fd55a3" />
 ### Time & Pricing Analysis
 <img width="1231" height="632" alt="Pricing Analysis" src="https://github.com/user-attachments/assets/6eee0015-c8d7-4e3f-abbc-7c2ff625dad7" />
-
-
 ### Time & Pricing Analysis
 ![Time and Pricing Analysis](screenshots/time-pricing-analysis.png)
