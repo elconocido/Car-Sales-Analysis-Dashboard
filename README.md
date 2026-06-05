@@ -130,9 +130,12 @@ This project helped me improve my skills in:
 
 ### Overview
 <img width="1226" height="636" alt="Overview" src="https://github.com/user-attachments/assets/c2750ba0-39bd-47ff-89d7-f912a5eb1ddc" />
+
 ### Seller Analysis
 <img width="1225" height="634" alt="Seller analysis" src="https://github.com/user-attachments/assets/b98138ec-89e7-4c42-864e-2fd605276566" />
+
 ### Vehicle Analysis
 <img width="1226" height="633" alt="Vehicle Analysis" src="https://github.com/user-attachments/assets/8863b6f4-4abb-47a1-afc5-d89f51fd55a3" />
+
 ### Time & Pricing Analysis
 <img width="1231" height="632" alt="Pricing Analysis" src="https://github.com/user-attachments/assets/6eee0015-c8d7-4e3f-abbc-7c2ff625dad7" />
